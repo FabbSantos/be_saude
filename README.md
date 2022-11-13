@@ -1,3 +1,3 @@
 # Bem Estar e Saúde
 
-Uma clínica situada no Méier, Rio de Janeiro
+Uma clínica situada no Méier, Rio de Janeiro.
